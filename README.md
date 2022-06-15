@@ -1,4 +1,3 @@
 # portfolio-task
 
-[Deploy]: (yaninaseb-portfolio-task1.netlify.app)
-
+Deploy: https://yaninaseb-portfolio-task1.netlify.app/
