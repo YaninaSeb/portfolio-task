@@ -7,7 +7,7 @@
 Это одностраничный сайт портфолио фотографа с адаптивной вёрсткой для разных устройст  
 [Ссылка на задание](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio.md)
 
-## Функционал:
+## Функциональность:
 - Смена изображений в секции portfolio
 - Перевод страницы на два языка
 
@@ -26,10 +26,10 @@
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![portfolio]()]()
-
+[![portfolio-task](https://user-images.githubusercontent.com/85887443/214578225-b3b7542d-c356-43ec-a472-033010c3dbdd.png)]()
 
 </details>
 
+
 ## Ссылка на сайт:
-https://yaninaseb-portfolio-task1.netlify.app/
+https://yaninaseb.github.io/portfolio-task/
